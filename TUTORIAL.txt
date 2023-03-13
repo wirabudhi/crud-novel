@@ -1,0 +1,26 @@
+=== LANGKAH - LANGKAH MENGINSTALL PROJECT CRUD-NOVEL PADA KOMPUTER MASING-MASING ===
+1. Install Composer
+2. Install Node JS
+3. Jalankan XAMPP (Apache dan MySQL)
+4. Extract file .RAR dari project yang telah diberikan
+5. Simpan pada folder C bebas dimana saja
+6. Buka PhpMyAdmin di browser
+7. Tambahkan database dengan nama crud_novel
+8. Buka project melalui VS Code
+9. Jalankan php artisan migrate:fresh di terminal
+10. Jalankan php artisan serve di terminal
+11. Bersamaan dengan langkah 10, buka terminal baru dan jalankan npm run dev
+12. Klik URL yang akan muncul di terminal pada php artisan serve
+13. Melakukan registrasi akun
+14. Masuk ke dashboard, akses halaman novel
+15. Lakukan CRUD sesuai kebutuhan
+=== SELESAI ===
+
+=== LINK DOWNLOAD ===
+Link Install Composer : https://getcomposer.org/download/
+Link Install NodeJS : https://nodejs.org/en/download/
+
+
+=== FAQ ===
+Apabila ada pertanyaan, jangan sungkan untuk menghubungi melalui WA
+
